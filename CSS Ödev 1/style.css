@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: azure;
+}
+h3, h5{
+    color: #9FBB73;
+    font-size: 30px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+p, li {
+    color: #e9ae8e;
+    font-size: 23px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.w-h {
+    width: 250;
+    height: 150;
+}
